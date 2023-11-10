@@ -10,5 +10,3 @@ Key features and technologies utilized in this project include:
 3)Dynamic Weather Display: Upon entering a location, the app dynamically retrieves weather information and displays it in a visually appealing and informative manner.
 
 4)Responsive Design: The application is designed to be responsive, ensuring a seamless experience across different devices and screen sizes.
-
-deployed link- https://weat
